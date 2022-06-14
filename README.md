@@ -1,4 +1,4 @@
 # trabajo1
-adja   a
+adja   e
 
-saludos
+salud
